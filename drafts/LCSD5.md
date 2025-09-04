@@ -4,11 +4,11 @@ Start Date: 2023-11-27
 
 Contact: Connor Horman <chorman@lcdev.xyz>
 
-Last Revision Date: 2023-11-27
+Last Revision Date: 2025-09-03
 
-Last Review Date: 
+Last Review Date: 2023-11-27
 
-Revision Number: 0
+Revision Number: 1
 
 Target Working Committee: Governance and Membership.
 
