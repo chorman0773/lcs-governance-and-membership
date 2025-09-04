@@ -25,11 +25,13 @@ The Code of Conduct is Established pursuant to the LCS Project Charter.
 ## §2 Code of Conduct Working Committee
 
 The Code of Conduct Technical Working Committee shall be established to make special publications related to the code of conduct, and to review drafts amending the Code of Conduct. In particular, the Working Committee shall review drafts that:
+
 * Amend any part of §3 or §4 of this Publication,
 * Establish any new principle or applicability provision of the Code of Conduct, or
 * Establish any uniform enforcement rules for the Code of Conduct.
 
 The Code of Conduct Working Committee may make special publications regarding Working Committee Rules and its Working Committee Code of Conduct. It may additionally make Special Publications regarding:
+
 * Implement any rule consistent with §4 and other Publications that apply to the Applicability and Principles of the Code of Conduct,
 * Interpretations or Clarifications of the Code of Conduct in this or any other Publication,
 * Suggestions for Uniform enforcement by Working Committees, and
@@ -48,6 +50,7 @@ The LC Admins shall have the authority to enforce the Code of Conduct in such a 
 No project-level enforcement shall be overturned or questioned by any Working Committee.
 
 Project-level enforcement may include, but is not limited to, the following:
+
 * Removal from and/or a prohibition from serving on any Working Committee, 
 * A prohibition from submitting or acting as a contact on any publication,
 * Removal of any publication, including a Draft or Special Publication, and
@@ -57,11 +60,14 @@ Project-level enforcement may include, but is not limited to, the following:
 
 Each Working Committee shall have the authority to enforce the Code of Conduct at the level of that Working Committee. Such enforcement shall occur according to the Working Committee rules. 
 
-Working Committee-level enfrocement may include, but is not limited to, the following:
+Working Committee-level enforcement may include, but is not limited to, the following:
+
 * Removal from and/or prohibition from serving on the Working Committee,
 * Prohibition from submitting or acting as a contact on any publication submitted to the Working Committee,
 * Removal of any Draft or Special Publication targetted at or reviewed by the Working Committe, and
-* A prohibition from communicating with the Working Committee in some or all ppplicable manners.
+* A prohibition from communicating with the Working Committee in some or all applicable manners.
+
+Where the implementation of Working Committee-level enforcement may be unreasonable, the party subject may request a non-binding interpretive decision by the Code of Conduct Working Committee and, in the event of further dispute, may appeal to the LCS Leads. The Working Committee shall, prior to any appeals but including after the issuance of an interpretive decision, provide reasonable opportunity for the party to request reconsideration of the enforcement measure.
 
 ### §3.3 Adherence by Publications
 
@@ -69,18 +75,21 @@ Each Publication of any kind (Primary, Draft, and Special) must adhere to all ru
 
 If an amendment to the Code of Conduct leaves any publication that already exists in violation of any of its rules, it may be removed by the LCS Leads, or, in the case of a Draft Publication or Special Publication, the Working Committee in charge of the publication. Otherwise, it shall not be required to adhere to the rules which did not exist when it was published, except that a Draft Publication or a Special Publication shall adhere to such rules when it is revised after the rule takes effect.
 
+The LCS Leads, after consulting the Code of Conduct Working Committee, and any other relevant Working Committees, may authorize a revision to a Primary Publication that is in violation of the current Code of Conduct, if the LCS Leads are satisfied, following the consultation, that the potential harm arising from the violation exceeds the impacts of the revision on correctness of users of the publication, or the understanding of the publication.
+
 ## §4 Code of Conduct
 
 ### §4.1 Application of the Code of Conduct
 
 The Code of Conduct shall apply to:
+
 * All communications monitored or managed by the project, including all communications to any Working Committee,
 * Any submission made to apply for a Draft or Publication Number,
 * Any publication of any kind (Primary, Draft, or Special),
 * Any public communication by any member of any Working Committee or any Lead,
 * Any private communication made by or to any member of a Working Committee or by a Lead, in any context related to the LCS Project, or LC as a whole, 
 * Any decision made by any Working Committee, whether or not it is made publically or privately, and
-* Any other context that impacts public confidence in the LCS Project or LC as a whole, or that enforcing group believes prevents or would prevent the involved parties from constructively participating in the LCS Project.
+* Any other context, brought to the attention of the enforcing group, that impacts public confidence in the LCS Project or LC as a whole, or that enforcing group believes prevents or would prevent the involved parties from constructively participating in the LCS Project.
 
 ### §4.2 Principles of the Code of Conduct
 
