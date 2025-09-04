@@ -35,7 +35,7 @@ The Code of Conduct Working Committee may make special publications regarding Wo
 * Suggestions for Uniform enforcement by Working Committees, and
 * Suggested enforcement penalties, at both the Project and Working Committee level.
 
-Until an abreviated name is assigned to the Code of Conduct Working Committee, it shall be COC. 
+Until an abreviated name is assigned to the Code of Conduct Working Committee, it shall be CON. 
 
 ## §3 Enforcement of the Code of Conduct
 
